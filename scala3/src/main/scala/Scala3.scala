@@ -1,3 +1,1 @@
-object Scala3 {
-
-}
+@main def hello = println("Welcome to Scala dotty")
