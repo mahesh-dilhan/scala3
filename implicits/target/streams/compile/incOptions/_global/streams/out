@@ -1,2 +1,59 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$3.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$3.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$3.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes.bak[0m

@@ -1,1 +1,25 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/scala3-simple_3-0.1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/scala3-simple_3-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/ImplicitEx$Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/ImplicitEx$Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/ImplicitEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/Context.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/ImplicitEx$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/ImplicitEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/ImplicitEx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/ImplicitEx.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplicitEx$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/ImplicitEx$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/Context$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/scala3/implicits/target/scala-3.0.0/classes/Context.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
