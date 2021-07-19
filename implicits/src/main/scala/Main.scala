@@ -12,6 +12,9 @@ object ImplicitEx {
     println("hello")
   }
 
+  def (s:String) color(given c : Color) : String = {
+    "s"
+  }
 //  def (s: String) (
 //  given c: Color
 //  ):
